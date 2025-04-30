@@ -4,7 +4,8 @@ Atualmente atuo na área comercial de uma empresa de Software, mas estou pavimen
 
 Hoje sou um DevClub, muito confiante com tudo que esta por vir. 
 
-Já aprendi as linguagens iniciais:
+Já aprendi as ferramentas e linguagem inicial:
 
     * HTML
     * CSS
+    * JavaScript
